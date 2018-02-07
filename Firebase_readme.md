@@ -39,3 +39,13 @@
 1. Select 'Authentication' under "Develop" section in the Firebase Dashboard screen.
 2. Go to 'SIGN-IN METHOD' tab.
 3. Enable 'Email/Password' authentication. (Select all that apply to your app)
+
+### Methods in Firebase Authenticate SDK
+
+1. Create FirebaseAuth instance under the 'onCreate()' method in the activity java file.
+
+          FirebaseAuth auth = FirebaseAuth.getInstance();
+          
+2. Invoke createUserWithEmailAndPassword() method using FirebaseAuth instance, created in previous step, to add an user to firebase.
+
+          
