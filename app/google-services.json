@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "890016328323",
+    "firebase_url": "https://helloworld-59ab2.firebaseio.com",
+    "project_id": "helloworld-59ab2",
+    "storage_bucket": "helloworld-59ab2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:890016328323:android:56501cbd0cc8ad73",
+        "android_client_info": {
+          "package_name": "com.yamani.helloworld"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "890016328323-2tnicesm80g31udsbvt4rnjestaiicm1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDC5IxpoTiROZgB9CB4suldnKOnH-lB0-4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
