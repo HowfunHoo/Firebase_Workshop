@@ -48,4 +48,6 @@
           
 2. Invoke createUserWithEmailAndPassword() method using FirebaseAuth instance, created in previous step, to add an user to firebase.
 
+          auth.createUserWithEmailAndPassword(email, password)
+
           
